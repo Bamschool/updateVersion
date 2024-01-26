@@ -1,6 +1,6 @@
 {
-  "serverInspection": true,
-  "serverInspectionReason": "We're setting server, so please wait for a few hours.",
+  "serverInspection": false,
+  "serverInspectionReason": "",
   "versions": [
     {
       "androidVersion": "1.0.05"
