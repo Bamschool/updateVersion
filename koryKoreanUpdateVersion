@@ -1,8 +1,12 @@
-[
-  {
-    "androidVersion": "1.0.05"
-  },
+{
+  "serverAction": true,
+  "serverInspectionReason": "",
+  "versions": [
     {
-    "iosVersion": "1.0.05"
-  }
-]
+      "androidVersion": "1.0.05"
+    },
+    {
+      "iosVersion": "1.0.05"
+    }
+  ]
+}
