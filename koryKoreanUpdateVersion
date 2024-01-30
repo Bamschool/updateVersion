@@ -3,10 +3,10 @@
   "serverInspectionReason": "",
   "versions": [
     {
-      "androidVersion": "1.0.07"
+      "androidVersion": "1.0.06"
     },
     {
-      "iosVersion": "1.0.07"
+      "iosVersion": "1.0.06"
     }
   ]
 }
