@@ -1,5 +1,5 @@
 {
-  "serverInspection": true,
+  "serverInspection": false,
   "serverInspectionReason": "We are currently conducting server maintenance! We will finish within a few hours and reopen the server",
   "versions": [
     {
