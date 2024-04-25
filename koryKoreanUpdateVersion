@@ -1,5 +1,5 @@
 {
-  "serverInspection": true,
+  "serverInspection": false,
   "serverInspectionReason": "We are currently conducting server maintenance! We will finish the inspection on April 1st, Korea time.",
   "versions": [
     {
