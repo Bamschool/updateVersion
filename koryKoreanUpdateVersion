@@ -1,6 +1,6 @@
 {
-  "serverInspection":false,
-  "serverInspectionReason": "We are currently conducting server maintenance! We will finish the inspection on May 4th, Korea time.",
+  "serverInspection":true,
+  "serverInspectionReason": "We are currently conducting server maintenance! We will finish in an hour",
   "versions": [
     {
       "androidVersion": "1.0.06"
