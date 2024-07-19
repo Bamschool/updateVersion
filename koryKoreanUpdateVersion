@@ -3,10 +3,10 @@
   "serverInspectionReason": "We are currently conducting server maintenance! We will finish in an hour",
   "versions": [
     {
-      "androidVersion": "1.1.3"
+      "androidVersion": "1.1.6"
     },
     {
-      "iosVersion": "1.1.4"
+      "iosVersion": "1.1.6"
     }
   ]
 }
