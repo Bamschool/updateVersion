@@ -1,12 +1,12 @@
 {
-  "serverInspection":true,
+  "serverInspection":false,
   "serverInspectionReason": "We are currently conducting server maintenance! This may take several hours to complete."
   "versions": [
     {
-      "androidVersion": "1.2.1"
+      "androidVersion": "1.2.0"
     },
     {
-      "iosVersion": "1.2.1"
+      "iosVersion": "1.2.0"
     }
   ]
 }
