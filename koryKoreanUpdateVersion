@@ -3,10 +3,10 @@
   "serverInspectionReason": "We're performing server maintenance to prepare for our latest update. The app will be back online in a few hours when the new version becomes available on the App Store and Play Store.",
   "versions": [
     {
-      "androidVersion": "1.2.7"
+      "androidVersion": "1.2.5"
     },
     {
-      "iosVersion": "1.2.7"
+      "iosVersion": "1.2.6"
     }
   ]
 }
