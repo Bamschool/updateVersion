@@ -1,8 +1,9 @@
 {
   "ios_version": "1.2.6",
   "android_version": "1.2.6",
-  "ios_need_update": false,
-  "android_need_update": false,
-  "ios_update_reason": null,
-  "android_update_reason": null
+  "current_version": null,
+  "ios_inspection": false,
+  "android_inspection": false,
+  "ios_inspection_reason": null,
+  "android_inspection_reason": null
 }
