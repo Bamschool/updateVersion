@@ -1,6 +1,6 @@
 {
   "serverInspection": true,
-  "serverInspectionReason": "We're performing server maintenance to prepare for our latest update. The app will be back online in a few hours when the new version becomes available on the App Store and Play Store.",
+  "serverInspectionReason": "We've released a bug fix. The update hasn't reached the Play Store for Android yet, but it's available for iOS. iOS users, please check the App Store.",
   "versions": [
     {
       "androidVersion": "1.2.5"
