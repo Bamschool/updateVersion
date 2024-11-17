@@ -1,6 +1,6 @@
 {
   "serverInspection":false,
-  "serverInspectionReason": "We are currently performing maintenance on the app! Please wait a little longer. It may take a few hours until the update is available on the Play Store or App Store..",
+  "serverInspectionReason": "We are currently conducting server maintenance! This may take several hours to complete.",
   "versions": [
     {
       "androidVersion": "1.2.5"
