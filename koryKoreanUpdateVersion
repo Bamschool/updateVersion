@@ -1,9 +1,9 @@
 {
-  "serverInspection": true,
+  "serverInspection": false,
   "serverInspectionReason": "We've released a bug fix. The update hasn't reached the Play Store for Android yet, but it's available for iOS. iOS users, please check the App Store.",
   "versions": [
     {
-      "androidVersion": "1.2.5"
+      "androidVersion": "1.2.7"
     },
     {
       "iosVersion": "1.2.7"
