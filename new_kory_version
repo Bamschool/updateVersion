@@ -4,5 +4,7 @@
   "ios_inspection": false,
   "android_inspection": false,
   "ios_inspection_reason": null,
-  "android_inspection_reason": null
+  "android_inspection_reason": null,
+  "ios_url": "",
+  "android_url": ""
 }
