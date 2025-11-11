@@ -1,6 +1,6 @@
 {
-  "ios_version": "1.4.3",
-  "android_version": "1.4.2",
+  "ios_version": "1.4.4",
+  "android_version": "1.4.4",
   "ios_inspection": false,
   "android_inspection": false,
   "ios_inspection_reason": null,
